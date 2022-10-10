@@ -1,2 +1,2 @@
-# Estrutura-de-Dados / Data-Structure
-Meus estudos em estrutura de dados com javascript.
+#Data-Structure
+My studies in data structure with javascript.
